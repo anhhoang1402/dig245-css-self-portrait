@@ -10,7 +10,7 @@ html, body {
 
 
 
-.pupil {
+.eye_left {
   display: block;
   width: 15px;
   height: 15px;
@@ -24,7 +24,7 @@ html, body {
 
 
 
-.pupil1 {
+.eye_right {
   display: block;
   width: 15px;
   height: 15px;
@@ -75,7 +75,7 @@ html, body {
 
 
 
-.hairpiece-back1 {
+.hair_front1 {
   height: 60px;
   width:60px;
   background-color:black;
@@ -85,7 +85,7 @@ html, body {
   top: 100px;
 }
 
-.hairpiece-back2 {
+.hair_front2 {
   height:60px;
   width:60px;
   background-color:black;
@@ -95,7 +95,7 @@ html, body {
   top: 90px;
 }
 
-.hairpiece-back3 {
+.hair_front3 {
   height:40px;
   width:40px;
   background-color:black;
@@ -105,7 +105,7 @@ html, body {
   top: 120px;
 }
 
-.hairpiece-back4 {
+.hair_front4{
   height:60px;
   width:60px;
   background-color:black;
@@ -115,7 +115,7 @@ html, body {
   top: 90px;
 }
 
-.hairpiece-back5 {
+.hair_front5 {
   height:40px;
   width:40px;
   background-color:black;
@@ -126,7 +126,7 @@ html, body {
 }
 
 
-.hairpiece-front1 {
+.hair_behind {
   height:170px;
   width:170px;
   background-color:black;
@@ -196,7 +196,7 @@ html, body {
   left:293px;
 }
 
-.glasses-rim {
+.glassestemple_left {
   position:absolute;
   background-color:black;
   height:31px;
@@ -207,7 +207,7 @@ html, body {
   transform: rotate(120deg);
 }
 
-.glasses-rim1 {
+.glassestemple_right {
   position:absolute;
   background-color:black;
   height:25px;
