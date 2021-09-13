@@ -26,6 +26,6 @@ console.log(number);
 document.addEventListener('mousemove', (event) => {
   var x = event.clientX;
   var y = event.clientY;
-  var coordinates = "X: " + x + " Y: " + y;
+  var coordinates = "X: " + x + ", Y: " + y;
   document.getElementById("display").innerHTML = coordinates;
 });
